@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="150" src="[https://images.squarespace-cdn.com/content/v1/67cbe10c5e26f165fc131f55/fd54778b-7396-4ddd-8f37-83a1ef792dbb/MATCH+logo+-+no+background+v5.png?"/>
+  <img height="150" src="https://images.squarespace-cdn.com/content/v1/67cbe10c5e26f165fc131f55/fd54778b-7396-4ddd-8f37-83a1ef792dbb/MATCH+logo+-+no+background+v5.png?"  />
 </div>
 
 ###
