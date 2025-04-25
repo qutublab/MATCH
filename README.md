@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">MATCH is a project of the University of Texas at San Antonio (UTSA) MATRIX AI Consortium and is part of the AIM-AHEAD Data Infrastructure Capacity Building (DICB) Program. Its goal is to support AIM-AHEAD stakeholders and the broader research community in developing the skills and tools necessary to effectively use AI and data in their research endeavors.<br><br>🌐 Visit the MATCH Website at https://healthyhuman.tech (mirror: https://match-dich.squarespace.com)</p>
+<p align="left">MATCH is a project of the University of Texas at San Antonio (UTSA) MATRIX AI Consortium and is part of the AIM-AHEAD Data Infrastructure Capacity Building (DICB) Program. Its goal is to support AIM-AHEAD stakeholders and the broader research community in developing the skills and tools necessary to effectively use AI and data in their research endeavors.<br><br>🌐 Visit the MATCH Website at https://healthyhuman.tech (mirror: https://match-dicb.squarespace.com)</p>
 
 ###
 
