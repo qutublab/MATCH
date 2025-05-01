@@ -41,7 +41,7 @@ Prior to running the notebook, you will need an [OpenAI API Key](https://platfor
 
 **NIH AIM AHEAD DICB MATCH Workshop**: Generative AI for Biomedical Decisions
 
-**Workshop Speakers**: Sambit Panda, PhD, UTSA && Christian Cruz, UTSA
+**Workshop Speakers**: Sambit Panda, PhD, UTSA and Christian Cruz, UTSA
 
 **Code Author**: Sambit Panda, PhD, UTSA
 
