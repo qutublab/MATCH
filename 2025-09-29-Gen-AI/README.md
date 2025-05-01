@@ -13,7 +13,7 @@ Code:
 
 1. Install [Python](https://www.python.org/downloads/) and (recommended) install [Anaconda](https://www.anaconda.com/).
 
-2. (recommended) [Create an initiate a new Conda envinroment](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html).
+2. (recommended) [Create and initiate a new Conda environment](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html).
 
 3. Install `jupyter`
 
