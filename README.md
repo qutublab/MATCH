@@ -14,7 +14,7 @@ MATCH is a project of the University of Texas at San Antonio (UTSA) MATRIX AI Co
 *April 22, 2025*<br>
 *Instructed by Jayanta Dey, Ph.D. (University of Texas at San Antonio MATRIX AI Consortium)*
 
-**Slides**: https://github.com/qutublab/MATCH/releases/download/Workshop-slides/Continual.Learning.-.Methods.and.Applications.pptx
+**Slides**: https://github.com/qutublab/MATCH/releases/download/Continual-learning-workshop/Continual.Learning.-.Methods.and.Applications.pptx
 
 **Credits**:<br>
 NIH AIM AHEAD DICB MATCH Workshop: Continual Learning - Methods and Applications<br>
