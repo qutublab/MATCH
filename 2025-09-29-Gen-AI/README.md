@@ -1,6 +1,5 @@
 # Generative AI for Biomedical Decisions
 
-**Generative AI for Biomedical Decisions**<br>
 *April 29, 2025*<br>
 *Instructed by Sambit Panda, Ph.D. (University of Texas at San Antonio MATRIX AI Consortium)
 and Christian Cruz (University of Texas at San Antonio MATRIX AI Consortium)*
