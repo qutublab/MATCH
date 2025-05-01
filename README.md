@@ -21,3 +21,19 @@ NIH AIM AHEAD DICB MATCH Workshop: Continual Learning - Methods and Applications
 Workshop Speaker: Jayanta Dey, PhD, UTSA<br>
 Organizer: Mignon Dumanjog, M.S., UTSA<br>
 MATCH PI: Amina A. Qutub, PhD
+
+### Workshop 2
+
+**Generative AI for Biomedical Decisions**<br>
+*April 29, 2025*<br>
+*Instructed by Sambit Panda, Ph.D. (University of Texas at San Antonio MATRIX AI Consortium) and Christian Cruz (University of Texas at San Antonio MATRIX AI Consortium)*
+
+**Slides**: https://github.com/qutublab/MATCH/releases/download/Generative-ai-workshop/Generative.AI.for.Biomedical.Decisions.pptx
+
+**Code**: https://github.com/qutublab/MATCH/releases/download/Generative-ai-workshop/genai-biomedical-code.ipynb (for instructions on how to run the code, visit https://github.com/qutublab/MATCH/tree/main/2025-09-29-Gen-AI)
+
+**Credits**:<br>
+NIH AIM AHEAD DICB MATCH Workshop: Continual Learning - Methods and Applications<br>
+Workshop Speaker: Sambit Panda, PhD, UTSA and Christian Cruz, UTSA<br>
+Organizer: Mignon Dumanjog, M.S., UTSA<br>
+MATCH PI: Amina A. Qutub, PhD
