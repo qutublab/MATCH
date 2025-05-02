@@ -30,7 +30,7 @@ MATCH PI: Amina A. Qutub, PhD
 
 **Slides**: https://github.com/qutublab/MATCH/releases/download/Generative-ai-workshop/Generative.AI.for.Biomedical.Decisions.pptx
 
-**Code**: https://github.com/qutublab/MATCH/releases/download/Generative-ai-workshop/genai-biomedical-code.ipynb (for instructions on how to run the code, visit https://github.com/qutublab/MATCH/tree/main/2025-04-29-Gen-AI)
+**Code**: https://github.com/qutublab/MATCH/releases/download/Generative-ai-workshop/genai-biomedical-code.ipynb (you can see [instructions on how to run the code here](https://github.com/qutublab/MATCH/tree/main/2025-04-29-Gen-AI#how-to-run-the-code))
 
 **Credits**:<br>
 NIH AIM AHEAD DICB MATCH Workshop: Continual Learning - Methods and Applications<br>
